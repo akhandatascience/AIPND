@@ -1,5 +1,7 @@
-# AIPND
-This repository contains code and associated files for the AI Programming with Python Nanodegree program. This repository consists of a number of tutorial notebooks for various coding exercises and programming labs that will be used to supplement the lessons of the course.
+# AI Programming with Python Nanodegree program
+This repository contains code and associated files for the AI Programming with Python Nanodegree program. I am very excited about this course. I will use this repostory to upload my tutorial notebooks for coding exercises and programming labs during this course. 
+
+Asif
 
 ## Table Of Contents
 
